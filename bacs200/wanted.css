@@ -43,7 +43,7 @@ img {
 }
 
 aside {
-    border: solid 10px white;
+    border: solid 10px red;
     position: absolute;
     top: 125%;
     right: 0;
